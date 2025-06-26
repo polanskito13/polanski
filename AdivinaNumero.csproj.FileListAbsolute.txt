@@ -1,0 +1,14 @@
+C:\Users\GenySán\desktop\ProyectosGithub\csharp-consola\adivina-numero\AdivinaNumero\bin\Debug\net9.0\AdivinaNumero.exe
+C:\Users\GenySán\desktop\ProyectosGithub\csharp-consola\adivina-numero\AdivinaNumero\bin\Debug\net9.0\AdivinaNumero.deps.json
+C:\Users\GenySán\desktop\ProyectosGithub\csharp-consola\adivina-numero\AdivinaNumero\bin\Debug\net9.0\AdivinaNumero.runtimeconfig.json
+C:\Users\GenySán\desktop\ProyectosGithub\csharp-consola\adivina-numero\AdivinaNumero\bin\Debug\net9.0\AdivinaNumero.dll
+C:\Users\GenySán\desktop\ProyectosGithub\csharp-consola\adivina-numero\AdivinaNumero\bin\Debug\net9.0\AdivinaNumero.pdb
+C:\Users\GenySán\desktop\ProyectosGithub\csharp-consola\adivina-numero\AdivinaNumero\obj\Debug\net9.0\AdivinaNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GenySán\desktop\ProyectosGithub\csharp-consola\adivina-numero\AdivinaNumero\obj\Debug\net9.0\AdivinaNumero.AssemblyInfoInputs.cache
+C:\Users\GenySán\desktop\ProyectosGithub\csharp-consola\adivina-numero\AdivinaNumero\obj\Debug\net9.0\AdivinaNumero.AssemblyInfo.cs
+C:\Users\GenySán\desktop\ProyectosGithub\csharp-consola\adivina-numero\AdivinaNumero\obj\Debug\net9.0\AdivinaNumero.csproj.CoreCompileInputs.cache
+C:\Users\GenySán\desktop\ProyectosGithub\csharp-consola\adivina-numero\AdivinaNumero\obj\Debug\net9.0\AdivinaNumero.dll
+C:\Users\GenySán\desktop\ProyectosGithub\csharp-consola\adivina-numero\AdivinaNumero\obj\Debug\net9.0\refint\AdivinaNumero.dll
+C:\Users\GenySán\desktop\ProyectosGithub\csharp-consola\adivina-numero\AdivinaNumero\obj\Debug\net9.0\AdivinaNumero.pdb
+C:\Users\GenySán\desktop\ProyectosGithub\csharp-consola\adivina-numero\AdivinaNumero\obj\Debug\net9.0\AdivinaNumero.genruntimeconfig.cache
+C:\Users\GenySán\desktop\ProyectosGithub\csharp-consola\adivina-numero\AdivinaNumero\obj\Debug\net9.0\ref\AdivinaNumero.dll
